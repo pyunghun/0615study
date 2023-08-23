@@ -1,0 +1,23 @@
+[
+{
+    "memberNo" : 1,
+    "memberName" : "너구리",
+    "memberAge" : 18,
+    "gender" : "남",
+    "detail" : {
+        "description" : "너구리는 18세의 남자이다.",
+        "image" : "/images/너구리.jpg"
+    } 
+}
+,
+{
+    "memberNo" : 2,
+    "memberName" : "푸바오",
+    "memberAge" : 13,
+    "gender" : "여",
+    "detail" : {
+        "description" : "푸바오는 13세의 여자이다.",
+        "image" : "/images/푸바오.jpg"
+    } 
+}
+]
